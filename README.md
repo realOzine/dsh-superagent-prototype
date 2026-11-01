@@ -18,6 +18,8 @@ It asks one short question at a time, shows the full plan once, and then install
 
 ## Documentation
 
+[简体中文文档](doc-zh/README.md)
+
 Read the numbered documents in order; each builds only on the ones before it.
 
 - [000 Philosophy](docs/000-philosophy.md)
